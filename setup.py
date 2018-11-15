@@ -7,11 +7,11 @@ setup(name='Grigsby Python Package',
       author='Courtney Grigsby',
       author_email='courtney.grigsby@selu.edu',
       license='MIT',
-      packages=['grigsbypyhtonpackage'],
+      packages=['grigsbypythonpackage'],
       install_requires=[
           'dendropy',
           'pandas',
-          'biopyhton'
+          'biopython'
       ],
       long_description=open('README.txt').read(),
 zip_safe=True)
