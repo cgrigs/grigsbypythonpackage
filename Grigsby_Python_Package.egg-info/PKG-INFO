@@ -1,0 +1,12 @@
+Metadata-Version: 1.0
+Name: Grigsby-Python-Package
+Version: 0.1
+Summary: Read a matrix and run BLAST searches
+Home-page: TBD
+Author: Courtney Grigsby
+Author-email: courtney.grigsby@selu.edu
+License: MIT
+Description: Sample python package
+        
+        
+Platform: UNKNOWN
