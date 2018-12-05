@@ -1,22 +1,3 @@
-"""
-Recieves a FASTA file format. Writes the results for a BLAST search to a specified file.
-
-Provies the fuction with a FASTA file containg the sequence of a specific taxon, the file in which to write the BLAST file too.
-
-The file must be in FASTA format
-
-Parameters
--------------
-arg1: fasta_path
-    A path to the file containg the molecular data
-arg2: results_path
-    A path to the file in whcih you wish to write the results of the BLAST search file to
-
-Returns
-------------
-Does not return anything
-"""
-
 from Bio.Blast import NCBIWWW
 from Bio import SeqIO
 import os

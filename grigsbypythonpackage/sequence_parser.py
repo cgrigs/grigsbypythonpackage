@@ -1,17 +1,9 @@
-"""
-Recieves the file path to the results of the BLAST search preformed in sequence_blaster.py 
-The information is alignmed printed  
-
-
-Parameters
--------------
-arg1: results_path
-    A path to the results from the BLAST search preformed in sequence_blaster.py
-
-Returns
-------------
-Does not return anything
-"""
+""""""""""""""""""""""""""""""""""""""""""""""
+This function parsers the information from 
+the BLAST search done by the function 
+sequence_blaster. Sorry for the lack of 
+creativity.
+"""""""""""""""""""""""""""""""""""""""""""""""
 
 from Bio.Blast import NCBIXML
 

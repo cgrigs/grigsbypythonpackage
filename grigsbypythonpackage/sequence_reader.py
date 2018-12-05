@@ -1,20 +1,3 @@
-"""
-Reads in the the dna sequence
-Provide as input the path to a phylip file
-Must be a phylip file
-
-
-Parameters
-----------
-arg1: DNA sequence
-    A path to a phylip file containg a DNA sequence
-    
-Returns
--------
-set
-    A set of the DNA sequence
-"""
-
 import dendropy
 import os
 
